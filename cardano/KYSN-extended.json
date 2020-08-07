@@ -1,0 +1,32 @@
+{
+  "itn": {
+    "owner": "ed25519_pk1cex39qlkcpan5rrtutlk8t4046hftl8857fe8ftvr2my9c7ye4ss8p8wdz",
+    "witness": "ed25519_sig1xukeq8vfmudkffpple5pl73aanmnagfskfc7wtt734edrrp8csst49q3fg0v9ka8glsaemvwnrd65rvqzr6h08wquzs7l0rufh8wkzqdllg3l"
+  },
+  "adapools": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/kysenpool/public-info/master/kysenpool-ico.png",
+        "url_png_logo": "https://raw.githubusercontent.com/kysenpool/public-info/master/kysenpool-logo.png",
+        "location": "California, United States",
+        "social": {
+            "twitter_handle": "KysenPool",
+            "telegram_handle": "KysenPool",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": ""
+        },
+        "company": {
+            "name": "Kysen Technologies",
+            "addr": "",
+            "city": "",
+            "country": "USA",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "",
+            "server": "",
+            "company": ""
+        }
+    }
+}
